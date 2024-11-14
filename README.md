@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm a software developer and technology enthusiast.</h2>
+<h2 align="center">"Hi 👋, I'm Victor Oliveira Barros, a software developer and technology enthusiast passionate about innovation and continuous learning.</h2>
 
 <h3 align="left">Connect with me:</h3>
 
